@@ -1,0 +1,23 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+}
+.header {
+    height: 64px;
+    width: 100%;
+    background-color: #2196F3;
+    
+}
+.all {
+    padding-left: 62px;
+    display: inline-block;
+    padding-top: 20px;
+    text-decoration: none;
+}
+.like {
+    padding-left: 20px;
+    display: inline-block;
+    padding-top: 20px;
+    text-decoration: none;
+}
